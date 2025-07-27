@@ -52,3 +52,20 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+
+---
+
+## ✍ Author
+
+**Arnav Mahajan**  
+🔗 [GitHub](https://github.com/Arnavv2211)  
+📧 arnavmaha2211@gmail.com 
+🎓 Fresher Engineer | Python & ML Enthusiast
+
+---
+
+## 📌 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute it with attribution.
+
