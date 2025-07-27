@@ -14,7 +14,7 @@ if st.button("Analyze"):
             resume_text = extract_text_from_docx(resume_file)
 
         score = get_similarity(resume_text, jd_input)
-        st.sucess(f"✅ Resume Match Score: {score}%")
+        st.success(f"✅ Resume Match Score: {score}%")
 
         if score > 75:
             st.balloons()
